@@ -4,6 +4,7 @@
 - 💬 Ask me about force.com implementation best practices
 - 📫 Reach me on Twitter [@fcathala](https://twitter.com/fcathala)
 - 😄 I roll with the pronouns "He/Him/His"
-- 🍷 I'm French, live in the UK and have a really strong accent
+- 🍷 I'm French and live in the UK.
+- 👂 I have a really strong accent, but I don't care.
 
 Fabrice Cathala
